@@ -1,4 +1,4 @@
-# simple-multithreader
+# Simple-multithreader
 SIMPLE MULIHREADER README Group 27
 ## Working
 Any c++ programme that includes simple-multithreader.h can use multithreading by calling the parallel_for function with proper arguments (high,low,lambda function, number of threads) (or 2 highs and lows, depending on the implementation needed). 
