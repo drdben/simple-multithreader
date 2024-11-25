@@ -29,16 +29,19 @@ Any c++ programme that includes simple-multithreader.h can use multithreading by
 - chrono (for timing measurements)
 ## Running Using existing testcases
 download repo locally on linux/unix system, run 
-'''
+
+```
 make clean
 make vector
 ./vector (arraysize) (numthreads)
 > get output
+
 make matrix
 ./matrix (size of square matrix) (numthreads)
 > get output
+
 make clean
-'''
+```
 ## Contributions
 1. Divyanshi, 2023209 (Simple Multithreader + ReadMe)
 2. Arnav Gupta, 2023125 (Error Handling + Time Measurement system)
