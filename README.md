@@ -46,5 +46,5 @@ make clean
 1. Divyanshi, 2023209 (Simple Multithreader + ReadMe)
 2. Arnav Gupta, 2023125 (Error Handling + Time Measurement system)
 
-## Link to Private Repo:
+## Link to Repo:
 https://github.com/drdben/simple-multithreader
