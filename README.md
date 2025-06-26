@@ -34,11 +34,11 @@ download repo locally on linux/unix system, run
 ```
 make clean
 make vector
-./vector (arraysize) (numthreads)
+./vector (numthreads) (arraysize) 
 > get output
 
 make matrix
-./matrix (size of square matrix) (numthreads)
+./matrix (numthreads) (size of square matrix) 
 > get output
 
 make clean
